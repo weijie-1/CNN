@@ -1,3 +1,1 @@
-# CNN
-
-2024: first edit
+# This is just for trial let hope this works
